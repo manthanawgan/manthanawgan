@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm a CS Undergrad <br><br>- 🔭 I’m working on ...<br>- 📚 I'm currently learning DSA in Java and deep learning with TensorFlow and Python</p>
+<p align="left">I'm a CS Undergrad <br><br>- 🔭 I’m working on ...<br>- 📚 I'm currently learning DSA in Java and Machine Learning with python and scikit
 
 ###
 
