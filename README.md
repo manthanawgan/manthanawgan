@@ -6,7 +6,7 @@
 <p>I’m Manthan Awgan, a passionate Software Engineering student 💻.</p>
 <!-- TODO: Add last video link -->
 <ul>
-<li>:seedling: I'm currently learning DSA in Java and Machine Learning with python and scikit </li>
+<li>:seedling: I'm currently learning DSA in Java and Machine Learning with python and scikit-learn </li>
 <!-- <li>:computer: Most used line of code <code>git commit -m "Initial Commit"</code>.</li>
 <!-- <li>🤔 I’m looking for an internship.</li> 
 <li>:speech_balloon: Ask me about anything.</li> --> 
