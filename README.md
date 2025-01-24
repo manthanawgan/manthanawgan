@@ -19,11 +19,11 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 DSA in Java and Machine Learning with python and scikit-learn**
+<!-- - 💼 I'm currently working on: **💻 DSA in Java and Machine Learning with python and scikit-learn**  -->
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="https://bento.me/manthanawgan" target="_blank">https://bento.me/manthanawgan</a>**
+<!-- - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs** 
+<!-- - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!** 
+<!-- - 📂 Portfolio: **<a href="https://bento.me/manthanawgan" target="_blank">https://bento.me/manthanawgan</a>**  -->
 
  **<h3 align="left">Skills</h3>**
 
