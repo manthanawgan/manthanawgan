@@ -17,7 +17,7 @@
 
  **<h3 align="left">I’m Manthan Awgan, a passionate Software Engineering student 💻.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left"></h3>**
 
 <!-- - 💼 I'm currently working on: **💻 DSA in Java and Machine Learning with python and scikit-learn**  -->
 - 🌱 I'm currently learning: **📚 Machine learning with python and scikit-learn **
