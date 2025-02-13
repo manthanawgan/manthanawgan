@@ -15,12 +15,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/manthan-awgan-3591172a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/manthanawgan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I’m Manthan Awgan, a passionate Software Engineering student 💻.</h3>**
+ **<h3 align="left">I’m Manthan Awgan, an ML enthusiast 💻.</h3>**
 
 **<h3 align="left"></h3>**
 
 <!-- - 💼 I'm currently working on: **💻 DSA in Java and Machine Learning with python and scikit-learn**  -->
-- 🌱 I'm currently learning: **📚 Machine learning with python and scikit-learn **
+- 🌱 I'm currently learning: **📚 MERN Stack and ML/DL **
 <!-- - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs** 
 <!-- - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!** 
 <!-- - 📂 Portfolio: **<a href="https://bento.me/manthanawgan" target="_blank">https://bento.me/manthanawgan</a>**  -->
