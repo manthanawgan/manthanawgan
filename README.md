@@ -41,5 +41,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanawgan&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<img width="210" src="AcWoC Badge.png">
-.
