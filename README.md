@@ -20,7 +20,7 @@
 **<h3 align="left"></h3>**
 
  <!-- - 💼 I'm currently working on: **💻 DSA in Java and Machine Learning with python and scikit-learn -->
-- 🌱 I'm currently learning: **📚 MERN Stack and DL **
+- 🌱 I'm currently learning: **📚 MERN Stack and DL**
 - ⚡ About me: **🎢I like to code models from scratch!** 
  <!-- - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs** -->
 
