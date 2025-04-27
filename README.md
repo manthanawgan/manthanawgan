@@ -4,7 +4,7 @@
 
 
   # 💫 About Me:
--🔭 I’m diving deep into Machine Learning and Deep Learning<br>- 🤝 I’m looking to collaborate on ML & DL projects<br>- 🌱 I’m currently learning Neural Networks & CNNs<br> - 📂 Portfolio: **<a href="https://bento.me/manthanawgan" target="_blank">https://bento.me/manthanawgan</a>** 
+-🔭 I’m diving deep into Machine Learning and Deep Learning<br>- 🤝 I’m looking to collaborate on ML & DL projects<br>- 🌱 I’m currently learning MLops<br> - 📂 Portfolio: **<a href="https://bento.me/manthanawgan" target="_blank">https://bento.me/manthanawgan</a>** 
 
 
 ## 🌐 Socials:
